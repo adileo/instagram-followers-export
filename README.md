@@ -28,5 +28,5 @@ Step 6:
 run `python parse.py`
 
 Step 7:
-You will have a generated `followers.csv` with all your twitter followers.
+You will have a generated `followers.csv` with all your instagram followers.
 
